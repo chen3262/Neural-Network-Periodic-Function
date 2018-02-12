@@ -1,7 +1,7 @@
 # Neural-Network-Periodic-Function
 Use back propagation and conjugate gradient method of predict periodic functions
 
-<img src ="Neural-Network-Periodic-Function/pic.png" width="600">
+<img src ="Neural-Network-Periodic-Function/pic.png", width="600">
 The program is will train a 6-5-5-3-1 neutral nnetwork with 200 datas of a periodic function.
 After training, the optimized model will predict the periodic feature of the function.
 
